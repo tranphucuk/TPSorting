@@ -11,3 +11,6 @@
     2: Fore each job 'j' in list A - foreach(var j in listA), then use method : "CheckDependency(listB, j)"
     4: After accomplishing foreach listA, if listB.Count > 0 
         => check CircularDependency(job,listB);
+        
+        
+![alt text](https://imgur.com/YssynWK.png)
