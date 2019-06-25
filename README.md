@@ -28,3 +28,7 @@
                      if(tempOut.Contain(jd.Dependency))                                 
                         throw : "jobs can’t have circular dependencies.";
 
+
+
+
+![alt text](https://imgur.com/vIW0VcT.png)
