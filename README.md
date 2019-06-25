@@ -5,7 +5,7 @@
  C=>F   =================>      A=>
  D=>A                           F=>
  E=>B
- F=>
+ F=> 
  
  
  1: Get all jobs which have no dependency (list<string> A)
