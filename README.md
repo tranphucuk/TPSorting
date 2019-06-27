@@ -12,5 +12,7 @@
     4: After accomplishing foreach listA, if listB.Count > 0 
         => check CircularDependency(job,listB);
         
+        Please have look at the full answer in : TopoSort/Program.cs
+        
         
 ![alt text](https://imgur.com/YssynWK.png)
